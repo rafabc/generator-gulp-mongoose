@@ -1,0 +1,16 @@
+node_modules
+dist
+.tmp
+.sass-cache
+app/bower_components
+.DS_Store
+.thumb
+src
+.authrc
+app/views
+app/**/*.html
+.idea
+npm-debug.log
+zip
+
+nbproject

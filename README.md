@@ -1,2 +1,2 @@
-# generator-gulp-mongoose
-Yeoman generator using mongoose
+# generator-angular-modulate
+Modulate Scaffolding with mongoose
